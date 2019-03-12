@@ -21,8 +21,8 @@ def bonus
   }
 
   #code your solution here:
-:hero [2]= "dead"
-:heroine[status]= "dead"  
+:hero [2, 0 ]= "dead"
+:heroine[2,0]= "dead"  
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
   epic_tragedy
